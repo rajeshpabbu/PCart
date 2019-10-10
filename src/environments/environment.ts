@@ -5,13 +5,13 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: "AIzaSyAI_HnqwrZmA_weLzfDlgWuCPFkuPDn5OI",
-    authDomain: "ng-compare-mobiles.firebaseapp.com",
-    databaseURL: "https://ng-compare-mobiles.firebaseio.com",
-    projectId: "ng-compare-mobiles",
-    storageBucket: "ng-compare-mobiles.appspot.com",
-    messagingSenderId: "1082477183073",
-    appId: "1:1082477183073:web:5e334b96849a07e647aa20"
+    apiKey: "AIzaSyDtJQ4KE9lM47ZjJw2gfZEr6CZHzhCB8cY",
+    authDomain: "pcart-2019.firebaseapp.com",
+    databaseURL: "https://pcart-2019.firebaseio.com",
+    projectId: "pcart-2019",
+    storageBucket: "",
+    messagingSenderId: "120607500778",
+    appId: "1:120607500778:web:a8e9500768da21850a2a93"
   }
 };
 
